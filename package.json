@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wanderxx/vue-fullcalendar.git"
+    "url": "git+https://github.com/yangJiaoBest/vue-fullcalendar.git"
   },
   "dependencies": {
     "es6-promise": "^4.0.5",
@@ -56,5 +56,5 @@
     "vue",
     "fullcalendar"
   ],
-  "homepage": "https://github.com/Wanderxx/vue-fullcalendar#readme"
+  "homepage": "https://github.com/yangJiaoBest/vue-fullcalendar#readme"
 }
