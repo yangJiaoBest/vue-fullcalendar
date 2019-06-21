@@ -96,7 +96,7 @@
       },
       locale : {
         type : String,
-        default : 'en'
+        default : 'zh'
       },
       firstDay : {
         type : Number | String,
